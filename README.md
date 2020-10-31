@@ -1,5 +1,5 @@
-# dataaisummit-mlflow
-MLOps using MLFlow
+# Data + AI Summit 2020 on 19 November
+##MLOps using MLFlow
 
 MLflow is an MLOps tool that enables data scientist to quickly productionize their Machine Learning projects. To achieve this, MLFlow has four major components which are Tracking, Projects, Models, and Registry. MLflow lets you train, reuse, and deploy models with any library and package them into reproducible steps. MLflow is designed to work with any machine learning library and require minimal changes to integrate into an existing codebase. In this session, we will cover the common pain points of machine learning developers such as tracking experiments, reproducibility, deployment tool and model versioning. Ready to get your hands dirty by doing quick ML project using mlflow and release to production to understand the ML-Ops lifecycle.
 
